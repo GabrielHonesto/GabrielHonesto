@@ -41,24 +41,47 @@
   <a href = "mailto:contato@seu-usuário-aqui"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+---
 
-### ⚙️ GitHub Analytics
+## 📊 Minhas Estatísticas (GitHub)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielHonesto)](https://github.com/GabrielHonesto/github-readme-stats)
+<details>
+<summary>📈 Visualizar estatísticas do GitHub</summary>
 
-![Snake animation](https://github.com/GabrielHonesto/GabrielHonesto/blob/output/github-contribution-grid-snake.svg)
+![Resumo do Perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielHonesto&theme=tokyonight)
+![Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabrielHonesto&theme=tokyonight)
+![Estatística de Commits](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabrielHonesto&theme=tokyonight)
+![Melhores Repositórios](https://github-profile-summary-cards.vercel.app/api/cards/top-langs?username=GabrielHonesto&theme=tokyonight)
 
-<!--
-**GabrielHonesto/GabrielHonesto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</details>
 
-Here are some ideas to get you started:
+> ⚙️ Este modelo usa o projeto **github-profile-summary-cards**.  
+> Basta alterar `[SEU_USUARIO]` pelo seu usuário do GitHub para carregar os dados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📂 Principais Projetos
+
+Aqui estão alguns dos meus projetos mais relevantes:
+
+- 🔗 **[Nome do Projeto 1](https://github.com/[SEU_USUARIO]/[REPO1])** — Descrição curta do que o projeto faz
+- 🔗 **[Nome do Projeto 2](https://github.com/[SEU_USUARIO]/[REPO2])** — Descrição curta do que o projeto faz
+- 🔗 **[Nome do Projeto 3](https://github.com/[SEU_USUARIO]/[REPO3])** — Descrição curta do que o projeto faz
+
+*(Adicione links e descrições para os projetos mais importantes que você tem no GitHub.)*
+
+---
+
+## 📫 Contatos
+
+📧 Email: [seuemail@email.com]  
+🌐 LinkedIn: https://linkedin.com/in/[SEU_LINKEDIN]  
+💼 Portfólio: https://[seusite].com
+
+---
+
+## 🎯 Objetivo
+
+Construir soluções reais com código limpo, aprender tecnologias novas e colaborar com pessoas que amam tecnologia tanto quanto eu.
+
+⭐ Vamos criar algo incrível juntos!
