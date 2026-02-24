@@ -44,9 +44,9 @@
 
 ### ⚙️ GitHub Analytics
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielHonesto)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielHonesto)](https://github.com/GabrielHonesto/github-readme-stats)
 
-
+![Snake animation](https://github.com/GabrielHonesto/GabrielHonesto/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **GabrielHonesto/GabrielHonesto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
