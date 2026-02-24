@@ -85,3 +85,5 @@ Aqui estão alguns dos meus projetos mais relevantes:
 Construir soluções reais com código limpo, aprender tecnologias novas e colaborar com pessoas que amam tecnologia tanto quanto eu.
 
 ⭐ Vamos criar algo incrível juntos!
+
+![Snake animation](https://github.com/GabrielHonesto/GabrielHonesto/blob/output/github-contribution-grid-snake.svg)
