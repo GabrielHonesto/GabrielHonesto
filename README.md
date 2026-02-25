@@ -1,13 +1,31 @@
-# Olá, eu sou Gabriel 👋🏾
+## Olá, eu sou Gabriel 👋🏾
 
-🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas  
-💻 Desenvolvedor Full-Stack  
+Desenvolvedor FullStack. Atualmente estou cursando o tecnológo em Análise e Desenvolvimento de Sistemas pelo IFPI
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/_4xCiEhhoZsAAAAd/dog-smile.gif" alt="Happy Dog Gif" width="400px" />
+</p>
+
+### Você também pode me encontrar e entrar em contato por aqui:
+
+<a href="https://www.linkedin.com/in/seu-linkedin-aqui" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:seuemail@email.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank">
+  <img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+</a>
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
 
-<div align="center">
+<div align="left">
+
+### Tecnologias e ferramentas
 
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -23,7 +41,7 @@
 
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" />
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" /> 
 
 </div>
 
