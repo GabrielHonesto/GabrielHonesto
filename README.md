@@ -53,6 +53,16 @@
 
 ---
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/GabrielHonesto/GabrielHonesto/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/GabrielHonesto/GabrielHonesto/blob/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/GabrielHonesto/GabrielHonesto/blob/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
 <h3 align="center"> 
   <img src="https://media.tenor.com/hf_R_l24--sAAAAi/cat-meme-laptop.gif" alt="Cat Computer GIF" width="50px">  📊 Estatísticas do GitHub
   <img src="https://media.tenor.com/hf_R_l24--sAAAAi/cat-meme-laptop.gif" alt="Cat Computer GIF" width="50px">
@@ -63,21 +73,8 @@
   ![Resumo do Perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielHonesto&theme=tokyonight)
   ![Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabrielHonesto&theme=tokyonight)
   ![Estatísticas](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabrielHonesto&theme=tokyonight)
+  <!-- seu comentário aqui
   ![Top Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GabrielHonesto&theme=tokyonight)
   ![Tempo Produtivo](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GabrielHonesto&theme=tokyonight&utcOffset=0)
-  
+  -->
 </div>
-
----
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/GabrielHonesto/GabrielHonesto/blob/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/GabrielHonesto/GabrielHonesto/blob/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://github.com/GabrielHonesto/GabrielHonesto/blob/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-
-
-
