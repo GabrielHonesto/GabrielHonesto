@@ -64,7 +64,7 @@
 ---
 
 <h3 align="center"> 
-  <img src="https://media.tenor.com/hf_R_l24--sAAAAi/cat-meme-laptop.gif" alt="Cat Computer GIF" width="50px">  📊 Estatísticas do GitHub
+  <img src="https://media.tenor.com/hf_R_l24--sAAAAi/cat-meme-laptop.gif" alt="Cat Computer GIF" width="50px"> Estatísticas do GitHub
   <img src="https://media.tenor.com/hf_R_l24--sAAAAi/cat-meme-laptop.gif" alt="Cat Computer GIF" width="50px">
 </h3> 
 
